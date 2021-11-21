@@ -20,5 +20,7 @@ And then well just track general monthly trends, which i think is a seperate sit
 may 6th may 26th 2019, 2020
 
 There are operations reports, we are going to have to look at regular usage to see if there is an uptick in holiday usage, 
-so maybe a date a week before and a date week after to provide context, we are using 2019 2020 dates
+so maybe a date a week before and a date week after to provide context, we are using 2019 2020 dates.
+
+update two
 
