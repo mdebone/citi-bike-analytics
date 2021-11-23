@@ -1300,7 +1300,7 @@
       </cards>
       <simple-id uuid='{E2F52568-F1A5-48C2-BA2A-62AD2961C1D2}' />
     </window>
-    <window class='worksheet' name='Top 20 Starting Stations'>
+    <window class='worksheet' maximized='true' name='Top 20 Starting Stations'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1390,7 +1390,7 @@
       </viewpoint>
       <simple-id uuid='{316537BE-9472-4843-97AB-31F9A56F3799}' />
     </window>
-    <window class='worksheet' maximized='true' name='Bottom 20 Ending Stations'>
+    <window class='worksheet' name='Bottom 20 Ending Stations'>
       <cards>
         <edge name='left'>
           <strip size='160'>
