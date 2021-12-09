@@ -66,6 +66,12 @@ But if it's to a city official, you know
 recommendations would be: hey, make sure that these well-trafficked stations have adequate security, are well lit, and maybe recommendations on bike lane maintenance (if already in place), 
 and if not, could be a suggestion towards public policy.
 
+---------
+
+Okay after getting a hand on tableau public and realizing that not all of my twb work was lost, I managed to slim down the analysis just to January 19 to January 20, 
+and even that took a bit, but there are the necessary views and dashboards and the analysis is at the header of each of the dashboard pages. It starts with an hour start time, followed by an hour end time, age-groups, 
+Start locations and End Locations as a choropleth of busyness of the stations, UserType, Gender and a top 20/bottom 20 Start station, and another for end station. It is published on tableau public, and I downloaded it to git and will submit the links to both. 
+
 
 
 
